@@ -1,10 +1,10 @@
 # setup.py
 from distutils.core import setup
 
-setup(name='projectname',
+setup(name='lab10',
     version='1.0',
-    author='Your Name',
-    author_email='you@youraddress.com',
-    url='http://www.you.com/projectname',
-    packages=['projectname', 'projectname.utils'],
+    author='Mikolaj Mazurek',
+    author_email='mikolajmazurek@gmail.com',
+    url='https://github.com/mikolaj965/DPP_Lab10/',
+    packages=['lab10'],
 )
