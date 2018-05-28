@@ -7,4 +7,7 @@ setup(name='lab10',
     author_email='mikolajmazurek@gmail.com',
     url='https://github.com/mikolaj965/DPP_Lab10/',
     packages=['lab10'],
+    license='MIT',
+    description='An example python package',
+    long_description=open('README.txt').read()
 )

@@ -5,3 +5,5 @@ Doc/documentation.txt
 examples/helloworld.py
 lab10/__init__.py
 lab10/app.py
+lab10/conv.py
+lab10/solv.py

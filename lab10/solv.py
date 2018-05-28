@@ -2,10 +2,6 @@ import math
 
 delta = 0
 
-def calculatedelta(a, b, c):
-    delta = b*b - 4*a*c
-    return delta
-
 def getsolution1(a, b, c):
     d = calculatedelta(a,b,c)
     if d >= 0:
