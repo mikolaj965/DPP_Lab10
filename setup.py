@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(name='lab10',
-    version='1.2',
+    version='1.3',
     author='Mikolaj Mazurek',
     author_email='mikolajmazurek@gmail.com',
     url='https://github.com/mikolaj965/DPP_Lab10/',
