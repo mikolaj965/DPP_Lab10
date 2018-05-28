@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eac5681-a221-4ac4-ad37-745ed3b4ef0f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lab10/conv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/solv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MANIFEST" beforeDir="false" afterPath="$PROJECT_DIR$/MANIFEST" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lab10-1.0.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lab10-1.0.tar.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/helloworld.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab10/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/solv.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/solv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +51,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab10/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
                 <element signature="e#2#26#0" expanded="true" />
               </folding>
@@ -69,20 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conv.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/conv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solv.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="solv.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab10/solv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="300">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -110,8 +95,8 @@
         <option value="$PROJECT_DIR$/lab10/fibo.py" />
         <option value="$PROJECT_DIR$/lab10/__init__.py" />
         <option value="$PROJECT_DIR$/lab10/conv.py" />
-        <option value="$PROJECT_DIR$/lab10/solv.py" />
         <option value="$PROJECT_DIR$/lab10/app.py" />
+        <option value="$PROJECT_DIR$/lab10/solv.py" />
       </list>
     </option>
   </component>
@@ -240,14 +225,34 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="solv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab10/solv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.helloworld" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.solv" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.solv" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.helloworld" />
       </list>
@@ -270,11 +275,11 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966888" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988358" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32988358" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32988358" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -312,13 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MANIFEST.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -350,16 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab10/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10/solv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/conv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -367,13 +355,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding>
             <element signature="e#2#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/solv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
