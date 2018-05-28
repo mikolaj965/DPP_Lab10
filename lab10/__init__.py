@@ -1,4 +1,3 @@
-from . import solv
 
 
 def calculatedelta(a, b, c):
